@@ -50,7 +50,7 @@ A STRING search centered on IL1R1 produced an 11-protein network containing:
 - IL1B
 - IL1RN
 
-The most relevant proteins selected for connecting receptor activation to the cellular response were **IL1R1, IL1RAP, MYD88, IRAK4, IRAK1/IRAK2, and TRAF6**.
+The most relevant proteins selected for connecting receptor activation to the cellular response were **IL1R1, IL1RAP, MYD88, IRAK4 and TRAF6**.
 
 The network was significantly enriched for the **interleukin-1-mediated signaling pathway** (8 of 22; FDR = 2.10e-17).
 
