@@ -1,0 +1,5 @@
+Source,Protein 1,Protein 2,Interaction/Evidence,Organism,Reference
+OmniPath,IL1A,IL1R1,Stimulation; 18 references,Homo sapiens,OmniPath
+IntAct,IL1RAP,IL1R1,Physical association; X-ray diffraction,Homo sapiens,PMID 22426547; EBI-15975086
+STRING,IL1R1,IL1A,Receptor-centered functional association network,Homo sapiens,STRING
+STRING,IL1R1,IL1RAP,Receptor-associated network,Homo sapiens,STRING
